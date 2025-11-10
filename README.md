@@ -4,6 +4,9 @@
 </div>
 
 
+<h1 align="center">Hi 👋, I'm YOGESH RAI</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
+
 <p align="center">
   <a href="https://github.com/Yogeshrai24">
     <img src="https://komarev.com/ghpvc/?username=Yoheshrai24&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
