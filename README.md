@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=7B68EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Explorer;Turning+Ideas+into+Smart+Solutions!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=7B68EE&center=true&vCenter=true&width=500&lines=Front-End+Developer;AI+Enthusiast;Tech+Explorer;Code+Test+Deploy+Repeat!" />
 </p>
 
 <p align="center">
