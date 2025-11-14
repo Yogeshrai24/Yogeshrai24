@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=Yoheshrai24&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://wakatime.com/@Yogeshrai24">
-    <img src="http://img.shields.io/badge/Code%20Time-22hrs%202%35mins-blue?style=flat-square" alt="Code Time">
+    <img src="http://img.shields.io/badge/Code%20Time-25hrs%202%35mins-blue?style=flat-square" alt="Code Time">
   </a>
 </p>
 <br>
