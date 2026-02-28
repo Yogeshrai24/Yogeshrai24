@@ -15,7 +15,6 @@
 - 🧠 Strong interest in **problem-solving & logic building**  
 - 🌱 Currently learning **Advanced DSA & STL in C++**  
 - 🌐 Exploring **Web Development (HTML, CSS, JavaScript)**  
-- 🔥 Consistent LeetCode & GitHub learner    
 
 ---
 <p align="center">
