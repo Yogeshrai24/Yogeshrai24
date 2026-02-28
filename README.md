@@ -26,68 +26,108 @@
   <a href="https://github.com/Yogeshrai24">
     <img src="https://komarev.com/ghpvc/?username=Yoheshrai24&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://wakatime.com/@Yogeshrai24">
-    <img src="http://img.shields.io/badge/Code%20Time-25hrs%202%35mins-blue?style=flat-square" alt="Code Time">
-  </a>
 </p>
-<br>
-<h2 align="center">Connect with Me</h3>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshrai24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Yogeshrai24&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshrai24&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Yogeshrai24/Yogeshrai24/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yogeshrai24?theme=dark&font=Fira%20Code&ext=contest"/>
+</p>
+
+---
+
+## 🏆 Achievements
+- ✅ Solved **DSA problems** on Arrays, Linked Lists, Stacks & Trees  
+- 🧩 Strong understanding of **Time & Space Complexity**  
+- 🚀 Regular problem-solving on **LeetCode & GeeksforGeeks**  
+- 💡 Focused on writing **optimized & clean C++ code**  
+
+---
+
+## 🎯 Career Objective
+> Aspiring **Software Development Engineer (SDE)** with strong foundations in  
+> **DSA, C++, and Frontend Development**, aiming to build scalable and efficient solutions  
+> while continuously improving problem-solving skills.
+
+---
+
+## 🤝 Connect with Me
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://www.linkedin.com/in/yogesh-rai-7b4469296" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yogesh Rai" height="30" width="40" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
         </a>
-       </td>
+      </td>
       <td>
         <a href="https://www.leetcode.com/Yogeshrai24" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yogesh Rai" height="30" width="40" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
         </a>
       </td>
       <td>
         <a href="https://auth.geeksforgeeks.org/user/yogeshrai24" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yogeshrai24" height="30" width="40" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
-<br>
-<h2 align="center">Languages and Tools</h3>
 
+---
+
+## 🛠️ Languages and Tools
 <table>
   <tr>
-    <td align="center" width="175">
-      <strong>Languages</strong>
-    </td>
+    <td align="center" width="170"><strong>Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <strong>Web Development</strong>
-    </td>
+    <td align="center"><strong>Web Development</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/TailwindCSS-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
     </td>
   </tr>
-  <tr> 
+
   <tr>
-    <td align="center">
-      <strong>Software & Tools</strong>
-    </td>
+    <td align="center"><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-     </td>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    </td>
   </tr>
 </table>
+
+---
