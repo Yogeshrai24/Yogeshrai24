@@ -57,17 +57,9 @@
 
 ---
 
-## 🏆 Achievements
-- ✅ Solved **DSA problems** on Arrays, Linked Lists, Stacks & Trees  
-- 🧩 Strong understanding of **Time & Space Complexity**  
-- 🚀 Regular problem-solving on **LeetCode & GeeksforGeeks**  
-- 💡 Focused on writing **optimized & clean C++ code**  
-
----
-
 ## 🎯 Career Objective
 > Aspiring **Software Development Engineer (SDE)** with strong foundations in  
-> **DSA, C++, and Frontend Development**, aiming to build scalable and efficient solutions  
+> **DSA, C++, and Web Development**, aiming to build scalable and efficient solutions  
 > while continuously improving problem-solving skills.
 
 ---
