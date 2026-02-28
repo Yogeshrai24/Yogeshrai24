@@ -46,7 +46,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Yogeshrai24/Yogeshrai24/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 ---
