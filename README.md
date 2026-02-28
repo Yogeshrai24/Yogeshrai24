@@ -5,8 +5,19 @@
 
 
 <h1 align="center">Hi 👋, I'm YOGESH RAI</h1>
-<h3 align="center">💻 C++ Developer | 🚀 DSA | 🌐 Frontend | Future SDE</h3>
+<h3 align="center">💻 C++ Developer | 🚀 DSA Enthusiast | 🌐 Frontend | Future SDE</h3>
 
+---
+
+## 🚀 About Me  
+- 🎓 Computer Science student  
+- 💻 Practicing **Data Structures & Algorithms**  
+- 🧠 Strong interest in **problem-solving & logic building**  
+- 🌱 Currently learning **Advanced DSA & STL in C++**  
+- 🌐 Exploring **Web Development (HTML, CSS, JavaScript)**  
+- 🔥 Consistent LeetCode & GitHub learner    
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=7B68EE&center=true&vCenter=true&width=500&lines=Front-End+Developer;AI+Enthusiast;Tech+Explorer;Code+Test+Deploy+Repeat!" />
 </p>
