@@ -29,66 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshrai24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Yogeshrai24&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshrai24&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
-
-## 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yogeshrai24?theme=dark&font=Fira%20Code&ext=contest"/>
-</p>
-
----
-
-## 🎯 Career Objective
-> Aspiring **Software Development Engineer (SDE)** with strong foundations in  
-> **DSA, C++, and Web Development**, aiming to build scalable and efficient solutions  
-> while continuously improving problem-solving skills.
-
----
-
-## 🤝 Connect with Me
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/yogesh-rai-7b4469296" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.leetcode.com/Yogeshrai24" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://auth.geeksforgeeks.org/user/yogeshrai24" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ Languages and Tools
 <table>
   <tr>
@@ -120,5 +60,67 @@
     </td>
   </tr>
 </table>
+
+---
+
+
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yogeshrai24?theme=dark&font=Fira%20Code&ext=contest"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshrai24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Yogeshrai24&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshrai24&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+
+## 🎯 Career Objective
+> Aspiring **Software Development Engineer (SDE)** with strong foundations in  
+> **DSA, C++, and Web Development**, aiming to build scalable and efficient solutions  
+> while continuously improving problem-solving skills.
+
+---
+
+## 🤝 Connect with Me
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/yogesh-rai-7b4469296" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.leetcode.com/Yogeshrai24" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://auth.geeksforgeeks.org/user/yogeshrai24" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
