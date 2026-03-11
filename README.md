@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/main/got_banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/main/GOT.png" width="100%">
 </p>
 
 
