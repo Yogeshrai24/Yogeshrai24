@@ -1,7 +1,7 @@
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/main/got_banner.png" width="100%">
+</p>
 
 
 <h1 align="center">Hi 👋, I'm YOGESH RAI</h1>
