@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/main/GOT.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Yogeshrai24/Yogeshrai24/main/GOT.png" 
+       style="width: 120%; height: 300px; object-fit: cover;">
 </p>
-
 
 <h1 align="center">Hi 👋, I'm YOGESH RAI</h1>
 <h3 align="center">💻 C++ Developer | 🚀 DSA Enthusiast | 🌐 Frontend | Future SDE</h3>
