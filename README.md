@@ -13,8 +13,8 @@
 - 🎓 Computer Science student  
 - 💻 Practicing **Data Structures & Algorithms**  
 - 🧠 Strong interest in **problem-solving & logic building**  
-- 🌱 Currently learning **Advanced DSA & STL in C++**  
-- 🌐 Exploring **Web Development (HTML, CSS, JavaScript)**  
+- 🌱 Currently learning **Advanced DSA in C++**  
+- 🌐 Exploring **Web Development**  
 
 ---
 <p align="center">
