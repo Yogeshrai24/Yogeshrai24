@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 - 🎓 Computer Science Student  
 - 💻 Practicing **Data Structures & Algorithms**  
-- 🧠 Strong Interest in **Problem-solving & Logic building**  
+- 🧠 Strong interest in **Problem-solving & Logic building**  
 - 🌱 Currently learning **Advanced DSA in C++**  
 - 🌐 Exploring **Web Development**  
 
